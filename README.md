@@ -1,4 +1,4 @@
-# Tutorial JavaScript - fundamentos da linguagem - Aulão  - Aulão #015
+# Tutorial JavaScript - fundamentos da linguagem - Aulão #015
 ###### DevSuperior - sua carreira dev com fundamento de ensino superior
 
 **Comunidade no Discord**:
