@@ -1,4 +1,4 @@
-# Responsividade com HTML e CSS - Aulão #010
+# Tutorial JavaScript - fundamentos da linguagem - Aulão  - Aulão #015
 ###### DevSuperior - sua carreira dev com fundamento de ensino superior
 
 **Comunidade no Discord**:
@@ -13,13 +13,14 @@ Não perca as novidades:
 ## Sumário
 - [O que você vai aprender](#O-que-você-vai-aprender)
 - [Pré-requisitos](#pré-requisitos)
-- [Objetivo da aula](#Objetivo-da-aula) 
+- [Links úteis](#links) 
 
 ## O que você vai aprender
 - O que é JavaScript ?
 - Onde é aplicada ?
   - Front-end
   - Back-end
+  - etc
 - Variáveis
 - Tipagem dinâmica
 - Tipos primitivos
@@ -31,3 +32,9 @@ Não perca as novidades:
 ## Pré-requisitos
 - Browser
 - Editor de texto (Recomendo o VSCode)
+
+## Links úteis
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
+- https://nodejs.org/en/download/
+- https://threejs.org/examples/
+
