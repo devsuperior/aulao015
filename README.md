@@ -13,7 +13,7 @@ Não perca as novidades:
 ## Sumário
 - [O que você vai aprender](#O-que-você-vai-aprender)
 - [Pré-requisitos](#pré-requisitos)
-- [Links úteis](#links) 
+- [Links úteis](#links-úteis) 
 
 ## O que você vai aprender
 - O que é JavaScript ?
