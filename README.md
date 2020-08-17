@@ -18,23 +18,16 @@ Não perca as novidades:
 ## O que você vai aprender
 - O que é JavaScript ?
 - Onde é aplicada ?
-  - Front-end
-  - Back-end
-  - etc
 - Variáveis
 - Tipagem dinâmica
-- Tipos primitivos
-- Objetos e referência
-- Arrays
+- Objetos
+- Listas
 - Funções
 - Onde estudar ?
 
 ## Pré-requisitos
 - Browser
-- Editor de texto (Recomendo o VSCode)
 
 ## Links úteis
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
-- https://nodejs.org/en/download/
-- https://threejs.org/examples/
-
+- https://www.codecademy.com/courses/introduction-to-javascript
