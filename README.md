@@ -27,7 +27,7 @@ Não perca as novidades:
 - Onde estudar ?
 
 ## Pré-requisitos
-- Browser
+- Navegador web
 
 ## Links úteis
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
