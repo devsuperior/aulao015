@@ -32,4 +32,4 @@ Não perca as novidades:
 ## Links úteis
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
 - https://www.codecademy.com/courses/introduction-to-javascript
-https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
+- https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
